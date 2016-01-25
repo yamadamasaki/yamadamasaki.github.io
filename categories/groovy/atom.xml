@@ -1,3 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[metametaweb]]></title><link href="/categories/groovy/atom.xml" rel="self"/><link href="/"/><updated>2015-08-27T05:36:54+09:00</updated><id>/</id><author><name><![CDATA[yamadamasaki]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[Raw tag]]></title><link href="/blog/2014/01/08/raw-tag/"/><updated>2016-01-25T22:29:50+09:00</updated><id>/blog/2014/01/08/raw-tag/</id><content type="html"><![CDATA[<div class="document">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[metametaweb]]></title><link href="/categories/groovy/atom.xml" rel="self"/><link href="/"/><updated>2015-08-27T05:36:54+09:00</updated><id>/</id><author><name><![CDATA[yamadamasaki]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[Raw tag]]></title><link href="/blog/2014/01/08/raw-tag/"/><updated>2016-01-25T22:42:30+09:00</updated><id>/blog/2014/01/08/raw-tag/</id><content type="html"><![CDATA[<div class="document">
+<ul class="simple">
+<li>This is a bulleted list.</li>
+<li>It has two items, the second
+item uses two lines.</li>
+</ul>
+<ol class="arabic simple">
+<li>This is a numbered list.</li>
+<li>It has two items too.</li>
+<li>This is a numbered list.</li>
+<li>It has two items too.</li>
+</ol>
 </div>
 ]]></content></entry></feed>
